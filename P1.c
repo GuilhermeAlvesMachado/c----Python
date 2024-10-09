@@ -1,7 +1,12 @@
-#include <studio.h>
+import random
 
-int main(){
-    for (int i = 0; i < 5; ++i){
-        printf("%d      ",i);
-    }
-}
+rep = int(input("quantas repetiçoes"))
+
+for i range(rep):
+    d1 = random.randit(1,6)
+    d2 = random.randit(1,6)
+
+if d1 + d2 = 7
+    print("deu 7")
+
+
